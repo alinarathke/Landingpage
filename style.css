@@ -1,0 +1,47 @@
+body {
+	background-image: url(images/background.jpg);
+	margin: 0; 
+}
+
+.container {
+	border-radius: 10px;
+	border: #9B111E 10px solid;
+	box-shadow: 3px 3px 3px 3px darkred;
+}
+
+h1 {
+	padding: 10px 5px 10px 5px;
+	color: #9B111E;
+	font-size: 70px;
+	font-family: Lato, sans-serif;
+}
+
+h2 {
+	color: #FA8072;
+	font-size: 20px;
+	font-family: Lato, sans-serif;
+}
+
+p {
+	color: #FA8072;
+	font-family: Lato, sans-serif;
+}
+
+a {
+	color:#9B111E;
+}
+
+a:hover {
+	color: blue;
+}
+
+
+
+#banner {
+	border: 10px;
+
+}
+
+#footer {
+	border: 10px;
+}
